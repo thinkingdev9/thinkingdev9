@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshgoel05&count_private=true&show_icons=true&theme=dark)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=superCoding0923&count_private=true&show_icons=true&theme=dark)
 
 ### Languages and Tools:
 
