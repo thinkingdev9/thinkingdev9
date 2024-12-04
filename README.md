@@ -1,6 +1,4 @@
 ## Hey there. Welcome to my GitHub.
-  
-### Visit my website @ [satwikbhasin.com](https://satwikbhasin.com)
 
 ## ✨ About Me
 
