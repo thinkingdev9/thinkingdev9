@@ -21,8 +21,7 @@ I'm on the lookout for opportunities where I can leverage my skills and contribu
 
 - Software Developer / Software Engineer / Software Development Engineer [SD,SE,SDE]
 - Application Developer
-- Web Developer / Web Application Developer
-- Mobile Developer
+- Web Developer / Mobile Developer / AI Developer
 - Full Stack Developer
 
 ## 🌈 Let's Connect and Explore Possibilities!
