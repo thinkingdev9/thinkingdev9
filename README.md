@@ -2,15 +2,16 @@
 
 ## ✨ About Me
 
-Passionate about coding solutions to real-world problems, I am a dedicated software developer with a knack for full-stack development, Java, and Agile methodologies. With a proven track record of collaborating on innovative projects, I thrive in dynamic environments that value creative problem-solving and continuous learning.
+Passionate about coding solutions to real-world problems, I am a dedicated software engineer with a knack for full-stack web/mobile/AI development and Agile methodologies. With a proven track record of collaborating on innovative projects, I thrive in dynamic environments that value creative problem-solving and continuous learning.
 
 ## 💻 Tech Stack
 
 Here's a glimpse into my tech arsenal:
 
-- **Programming languages:** Java, Python, C, C++, JavaScript, TypeScript
+- **Programming languages:** JavaScript, TypeScript, Python, C, C++, Java
 - **Databases:** SQL (MySQL, PostgreSQL, MS SQL), NoSQL (MongoDB, Redis), ORM tools
 - **Web Development:** PHP, HTML, CSS, XML, React.js, Express.js, jQuery, Node.js, Next.js, RESTful APIs, Responsive Design
+- **Mobile Development**: React Native, Flutter, Swift, Ionic
 - **Tools/Platform/Framework:** Azure, AWS (Including Serverless Architecture), Version Control Systems (Git), Spring Boot, Postman, Docker, Jenkins, MVC Architecture, Selenium
 
 
@@ -21,6 +22,7 @@ I'm on the lookout for opportunities where I can leverage my skills and contribu
 - Software Developer / Software Engineer / Software Development Engineer [SD,SE,SDE]
 - Application Developer
 - Web Developer / Web Application Developer
+- Mobile Developer
 - Full Stack Developer
 
 ## 🌈 Let's Connect and Explore Possibilities!
